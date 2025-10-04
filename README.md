@@ -7,7 +7,7 @@ Navigate through level-based stages with increasing difficulty, using coins to u
 Each level begins with an interactive tutorial, ensuring players quickly learn and adapt to new challenges.  
 
 **Role:** Game Developer (Unity, C#)  
-**Engine:** Unity (2021 LTS)  
+**Engine:** Unity 6 
 **Platform:** Android  
 
 ✨ Features  
